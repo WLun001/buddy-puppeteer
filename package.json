@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^0.13.0"
+    "puppeteer": "latest"
   },
   "devDependencies": {},
   "scripts": {
